@@ -1,0 +1,265 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.5/examples/My_Modules
+T_opt
+!s110 1611922953
+VD>Gg<acJjXg0^WjIY>H=o0
+Z1 04 9 4 work memory_TB fast 0
+=1-54e1adebf088-6013fe08-3bb-ec8
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+R0
+T_opt1
+!s110 1611925805
+Viz`0Lk^S921UPC9U`<1]]1
+R1
+=1-54e1adebf088-6014092d-302-35b8
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+R0
+vadder
+!s110 1615591547
+!i10b 1
+!s100 ;^A3F:C_^9U1Y]P:ajBAm2
+IVcng=DojEGQO6b^O@7K4m2
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 dF:/Projects/My-Git-Hub/Verilog/My-Verilog-modules
+w1615591543
+8F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/4bit_Adder.v
+FF:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/4bit_Adder.v
+L0 1
+Z6 OL;L;10.5;63
+r1
+!s85 0
+31
+!s108 1615591547.000000
+!s107 F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/4bit_Adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/4bit_Adder.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vcounter
+!s110 1615591215
+!i10b 1
+!s100 VnhXkI63mf50G<N6ESoHl1
+IJ1V]>WnEkbiK7BJH;giM21
+R4
+R5
+w1615591209
+8F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/8bit_counter.v
+FF:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/8bit_counter.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1615591215.000000
+!s107 F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/8bit_counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/8bit_counter.v|
+!i113 0
+R7
+R2
+vD_FlipFlop
+Z8 !s110 1615580563
+!i10b 1
+!s100 ]^h6Bdn19L]eI^2Y`WnAH1
+I[;J3UdlFkCN6ZMnB^AJWS0
+R4
+R5
+w1611880439
+8F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/D-FlipFlop.v
+FF:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/D-FlipFlop.v
+L0 4
+R6
+r1
+!s85 0
+31
+Z9 !s108 1615580563.000000
+!s107 F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/D-FlipFlop.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/D-FlipFlop.v|
+!i113 0
+R7
+R2
+n@d_@flip@flop
+vD_latch
+R8
+!i10b 1
+!s100 a5hC?VfZGnAcd5fP3mdga1
+IDPK?b<USG?48gQDgo<MjZ0
+R4
+R5
+w1611876876
+8F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/D-latch.v
+FF:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/D-latch.v
+L0 5
+R6
+r1
+!s85 0
+31
+R9
+!s107 F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/D-latch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/D-latch.v|
+!i113 0
+R7
+R2
+n@d_latch
+vDecoder3to8
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 lhX`aTfYFWoN0e^4>T:310
+Ie`=zQDcUC1BFLWRIYI7zb3
+R5
+Z10 w1615726863
+Z11 8F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/3to8_Decodder.v
+Z12 FF:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/3to8_Decodder.v
+L0 1
+R6
+Z13 !s108 1615726868.000000
+Z14 !s107 F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/3to8_Decodder.v|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/3to8_Decodder.v|
+!i113 0
+R7
+R2
+n@decoder3to8
+vDecoder3to82
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;GTjMkO2Q:PjjHH?SE6A[2
+INaSVW3T`]Nia^[RdaDdd=0
+R5
+R10
+R11
+R12
+L0 15
+R6
+R13
+R14
+R15
+!i113 0
+R7
+R2
+n@decoder3to82
+vdecoder_TB
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 GZ6QMIe<emQfaTC08hHZ_0
+IkeFFCYLW^OYaWoC^fT4dU2
+R5
+w1615726941
+8F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/3to8_Decoder_TB.v
+FF:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/3to8_Decoder_TB.v
+L0 2
+R6
+!s108 1615726946.000000
+!s107 F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/3to8_Decoder_TB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/3to8_Decoder_TB.v|
+!i113 0
+R7
+R2
+ndecoder_@t@b
+vmemory
+R8
+!i10b 1
+!s100 iRK]UZL=aY@e[jn9X;bZ[2
+IKQOgV5W3gWegIE6TUBko12
+R4
+R5
+w1611924543
+8F:\Projects\My-Git-Hub\Verilog\My-Verilog-modules\read_write_memory.v
+FF:\Projects\My-Git-Hub\Verilog\My-Verilog-modules\read_write_memory.v
+L0 3
+R6
+r1
+!s85 0
+31
+R9
+!s107 F:\Projects\My-Git-Hub\Verilog\My-Verilog-modules\read_write_memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:\Projects\My-Git-Hub\Verilog\My-Verilog-modules\read_write_memory.v|
+!i113 0
+R7
+R2
+vmemory_TB
+!s110 1615580564
+!i10b 1
+!s100 ]:^S51RlQnV6BKRYg9cDG1
+I4K2Iz3YVG@oOSNHTSkUD_0
+R4
+R5
+w1611925797
+8F:\Projects\My-Git-Hub\Verilog\My-Verilog-modules\memory_TB.v
+FF:\Projects\My-Git-Hub\Verilog\My-Verilog-modules\memory_TB.v
+L0 9
+R6
+r1
+!s85 0
+31
+R9
+!s107 F:\Projects\My-Git-Hub\Verilog\My-Verilog-modules\memory_TB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:\Projects\My-Git-Hub\Verilog\My-Verilog-modules\memory_TB.v|
+!i113 0
+R7
+R2
+nmemory_@t@b
+vregister
+!s110 1615591030
+!i10b 1
+!s100 :U?ckZ3ecHb?5d?EN[jcg1
+IXFl?^=b9XS?QgPI2@2Y^=3
+R4
+R5
+w1611883776
+8F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/register.v
+FF:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/register.v
+L0 7
+R6
+r1
+!s85 0
+31
+!s108 1615591030.000000
+!s107 F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/register.v|
+!i113 0
+R7
+R2
+vRegisterFile
+!s110 1615589337
+!i10b 1
+!s100 XgYIMg]_a=6fXhm7ekGN20
+IMnWO@D<zKef^X9VfhNSKI0
+R4
+R5
+w1615589329
+8F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/MIPS_RegisterFile.v
+FF:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/MIPS_RegisterFile.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1615589337.000000
+!s107 F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/MIPS_RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/MIPS_RegisterFile.v|
+!i113 0
+R7
+R2
+n@register@file

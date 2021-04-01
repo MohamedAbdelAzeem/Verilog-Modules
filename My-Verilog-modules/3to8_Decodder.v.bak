@@ -1,0 +1,40 @@
+module Decoder3to8 (input reg [2:0] in, output reg [7:0] out);
+
+
+
+
+always @(in)
+
+out[1 << in ] <= 1'b1;
+
+
+endmodule
+
+
+
+module Decoder3to82(input reg [2:0] in, output reg [7:0] out);
+
+
+
+
+always @(in)
+	case(in)
+3b'000: out = 8'b00000001;
+
+3b'001:out = 8'b00000010;
+	
+3b'010:out = 8'b00000100;
+	
+3b'011:out = 8'b00001000;
+	
+3b'100:out = 8'b00010000;
+	
+3b'101:out = 8'b00100000;
+	
+3b'110:out = 8'b01000000;
+	
+3b'111:out = 8'b10000000;
+endcase	
+
+
+endmodule

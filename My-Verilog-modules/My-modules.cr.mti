@@ -1,0 +1,73 @@
+F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/3to8_Decodder.v {1 {vlog -work work -vopt -stats=none F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/3to8_Decodder.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Decoder3to8
+-- Compiling module Decoder3to82
+
+Top level modules:
+	Decoder3to8
+	Decoder3to82
+
+} {} {}} F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/3to8_Decoder_TB.v {1 {vlog -work work -vopt -stats=none F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/3to8_Decoder_TB.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module decoder_TB
+
+Top level modules:
+	decoder_TB
+
+} {} {}} F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/register.v {1 {vlog -work work -vopt -stats=none F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/register.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/D-FlipFlop.v {1 {vlog -work work -vopt -stats=none F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/D-FlipFlop.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module D_FlipFlop
+
+Top level modules:
+	D_FlipFlop
+
+} {} {}} F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/D-latch.v {1 {vlog -work work -vopt -stats=none F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/D-latch.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module D_latch
+
+Top level modules:
+	D_latch
+
+} {} {}} F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/MIPS_RegisterFile.v {1 {vlog -work work -vopt -stats=none F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/MIPS_RegisterFile.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/4bit_Adder.v {1 {vlog -work work -vopt -stats=none F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/4bit_Adder.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/8bit_counter.v {1 {vlog -work work -vopt -stats=none F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/8bit_counter.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/memory_TB.v {1 {vlog -work work -vopt -stats=none {F:\Projects\My-Git-Hub\Verilog\My-Verilog-modules\memory_TB.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module memory_TB
+
+Top level modules:
+	memory_TB
+
+} {} {}} F:/Projects/My-Git-Hub/Verilog/My-Verilog-modules/read_write_memory.v {1 {vlog -work work -vopt -stats=none {F:\Projects\My-Git-Hub\Verilog\My-Verilog-modules\read_write_memory.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}}
